@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/YoutubeApp/static/css/main.7a8c38f6.css",
+    "main.js": "/YoutubeApp/static/js/main.91852611.js",
+    "static/media/yt-logo-mobile.png": "/YoutubeApp/static/media/yt-logo-mobile.7e67cd801ac3213983ff.png",
+    "static/media/yt-logo.png": "/YoutubeApp/static/media/yt-logo.d6505fbc930734374cea.png",
+    "index.html": "/YoutubeApp/index.html",
+    "main.7a8c38f6.css.map": "/YoutubeApp/static/css/main.7a8c38f6.css.map",
+    "main.91852611.js.map": "/YoutubeApp/static/js/main.91852611.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a8c38f6.css",
+    "static/js/main.91852611.js"
+  ]
+}
